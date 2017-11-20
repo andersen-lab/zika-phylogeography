@@ -4,7 +4,7 @@ All sequences publicly available on GenBank. Tree generated using [BEAST v1.8.4]
 
 Rendered video for use under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/) available in [movie](movie/).
 
-Rendered video on [Youtube](https://youtu.be/VOuoaSmFztY).
+Rendered video on [Youtube](https://youtu.be/ul1KYj13Isw).
 
 #### Inspired by [Phylogeography of 2014-2015 Ebola virus epidemic by Gytis Dudas](https://github.com/ebov/space-time).
 
