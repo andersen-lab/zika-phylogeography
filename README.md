@@ -22,3 +22,9 @@ Rendered video on [Youtube](https://youtu.be/ul1KYj13Isw).
 #### License
 All content outside of [data/](data/) is  licensed under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/).
 Natural Earth shapefiles in [data/ne_10m_admin_0_countries/](data/ne_10m_admin_0_countries/) are in public domain.
+
+---
+**Andersen Lab**  
+The Scripps Research Institute  
+La Jolla, CA, USA  
+[data@andersen-lab.com](mailto:data@andersen-lab.com)
