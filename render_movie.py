@@ -83,8 +83,8 @@ coords.loc[coords["Country_NA_EARTH"]=="Russia", "Country_NA_EARTH"] = "Russian 
 # Specify countries with only travel cases. 
 travel_countries = ["Russia", "Canada", "United_Kingdom", "Italy", "Austria", "China", "Japan"]
 
-groups = coords["Continent"].unique()
-groups = groups[groups!="Europe"].tolist()
+groups = coords["Continent"].unique().tolist()
+# groups = groups[groups!="Europe"].tolist()
 color_scheme = ["#4c71a5", "#47a364", "#d0684a", "#e1c62f", "#cc79a7", "#77bedb", "#7f6e85", "#476581", "#cccccc", "#f6653c", "#66ccff", "#ccc097"]
 _colors = color_scheme[:len(groups)]
 # Setup color scale for countries
