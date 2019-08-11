@@ -18,11 +18,10 @@ Rendered video on [Youtube](https://youtu.be/ul1KYj13Isw).
 * [pandas](https://pandas.pydata.org/)
 * [numpy](http://www.numpy.org/)
 
-#### Made with [Natural Earth](http://www.naturalearthdata.com/). 
-![Natural Earth](https://github.com/andersen-lab/zika-phylogeography/blob/master/NEV-Logo-color.png)
+#### Made with [Natural Earth](http://www.naturalearthdata.com/).
 
 #### License
-All content outside of [data/](data/) is  licensed under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/).
+All content outside of [data/](https://github.com/andersen-lab/zika-phylogeography/tree/master/data) is  licensed under [CC-BY-SA-4](https://choosealicense.com/licenses/cc-by-sa-4.0/).
 Natural Earth shapefiles in [data/ne_10m_admin_0_countries/](https://github.com/andersen-lab/zika-phylogeography/tree/master/data/ne_10m_admin_0_countries) are in public domain.
 
 **Disclaimer**. Please note that this data is still based on work in progress and should be considered preliminary. If you intend to include any of these data in publications, please let us know – otherwise please feel free to download and use without restrictions. We have shared this data with the hope that people will download and use it, as well as scrutinize it so we can improve our methods and analyses. Please contact us if you have any questions or comments – we’ll buy beers for #ResearchParasites that spot flaws and faults in the data and come up with improvements!
